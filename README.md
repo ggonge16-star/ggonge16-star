@@ -37,6 +37,7 @@ ganesh = {
 
 | Project | Description | Tech | Accuracy |
 |---------|-------------|------|----------|
+| [🧠 Brain Tumor Detection & Visualization](https://github.com/ggonge16-star/Brain-Tumor-Detection) | MRI scan varun brain tumor detect karto — Grad-CAM + OpenCV + Streamlit App | TensorFlow, MobileNetV2, OpenCV, Grad-CAM, Streamlit | **95.19%** |
 | [📉 Customer Churn Prediction](https://github.com/ggonge16-star/Customer-Churn-Prediction-Using-ANN) | ANN to predict customer churn for telecom | TensorFlow, Keras, Scikit-learn | **86%+** |
 | [🖼️ CIFAR-10 Image Classification](https://github.com/ggonge16-star/Image-Classification-CNN) | Custom VGG-inspired CNN from scratch | TensorFlow, Keras, CNN | **83%** |
 | [🤖 AI Job Risk Prediction](https://github.com/ggonge16-star/DS-ML-GenAI-Lab) | ML pipeline to classify job automation risk | XGBoost, SVC, Scikit-learn | **83%** |
@@ -52,6 +53,8 @@ ganesh = {
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
