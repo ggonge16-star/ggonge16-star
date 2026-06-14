@@ -26,6 +26,7 @@ ganesh = {
     "currently" : "Data Science Certification @ Innomatics Research Labs",
     "skills"    : ["Deep Learning", "Computer Vision", "NLP", "Gen-AI"],
     "frameworks": ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"],
+    "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
     "looking_for": "ML / DL Full-Time Roles 🚀",
     "location"  : "Pune, Maharashtra 📍",
 }
