@@ -42,6 +42,7 @@ ganesh = {
 | [📉 Customer Churn Prediction](https://github.com/ggonge16-star/Customer-Churn-Prediction-Using-ANN) | ANN to predict customer churn for telecom | TensorFlow, Keras, Scikit-learn | **86%+** |
 | [🖼️ CIFAR-10 Image Classification](https://github.com/ggonge16-star/Image-Classification-CNN) | Custom VGG-inspired CNN from scratch | TensorFlow, Keras, CNN | **83%** |
 | [🤖 AI Job Risk Prediction](https://github.com/ggonge16-star/DS-ML-GenAI-Lab) | ML pipeline to classify job automation risk | XGBoost, SVC, Scikit-learn | **83%** |
+| [✈️ British Airways Customer Booking Prediction](https://github.com/ggonge16-star/DS-ML-GenAI-Lab/tree/main/British-Airways-Data-Science-Job-Simulation-Forage) | Forage job simulation — customer booking completion predict karto, severe class imbalance (85:15) handle kela `scale_pos_weight` ne | XGBoost, Scikit-learn, Pandas | **F1: 0.43, Recall: 60%** |
 
 ---
 
