@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ganesh Gonge
-
-### Machine Learning Engineer | Deep Learning | Computer Vision | NLP
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F9E,100:00D4FF&height=220&section=header&text=Ganesh%20Gonge&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1B4F9E&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Building+AI+that+creates+real+impact;Open+to+ML+%2F+DL+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -51,20 +49,7 @@ ganesh = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,streamlit,numpy,pandas,mysql,aws,linux,git&theme=dark" />
 
 </div>
 
@@ -74,14 +59,20 @@ ganesh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ggonge16-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggonge16-star&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ggonge16-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=15" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggonge16-star&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ggonge16-star&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ggonge16-star&theme=tokyonight&hide_border=true&border_radius=15)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ggonge16-star&theme=tokyo-night&hide_border=true&area=true&border_radius=15" width="95%"/>
 
 </div>
 
@@ -121,5 +112,7 @@ ganesh = {
 *"Every dataset tells a story. I build models that listen."* 🧠
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ggonge16-star&color=1B4F9E&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:1B4F9E&height=100&section=footer" width="100%"/>
 
 </div>
