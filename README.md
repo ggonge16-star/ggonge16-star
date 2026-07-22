@@ -43,6 +43,7 @@ ganesh = {
 | [🖼️ CIFAR-10 Image Classification](https://github.com/ggonge16-star/Image-Classification-CNN) | Custom VGG-inspired CNN from scratch | TensorFlow, Keras, CNN | **83%** |
 | [🤖 AI Job Risk Prediction](https://github.com/ggonge16-star/DS-ML-GenAI-Lab) | ML pipeline to classify job automation risk | XGBoost, SVC, Scikit-learn | **83%** |
 | [✈️ British Airways Customer Booking Prediction](https://github.com/ggonge16-star/DS-ML-GenAI-Lab/tree/main/British-Airways-Data-Science-Job-Simulation-Forage) | Forage job simulation — customer booking completion predict karto, severe class imbalance (85:15) handle kela `scale_pos_weight` ne | XGBoost, Scikit-learn, Pandas | **F1: 0.43, Recall: 60%** |
+| [🧬 Symptom-to-Disease Classification (BioBERT)](https://github.com/ggonge16-star/DS-ML-GenAI-Lab/tree/main/Symptom-to-Disease-Classification-using-Fine-tuned-BioBERT) | Free-text symptom description varun 24 disease categories madhe classify karto — fine-tuned BioBERT sobat, Streamlit app deploy kela | PyTorch, Hugging Face Transformers, BioBERT, Streamlit | **97.50%** |
 
 ---
 
